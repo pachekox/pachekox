@@ -1136,16 +1136,17 @@ section .container {
 
 .contact .php-email-form button[type=submit] {
   background: orange;
+  margin-top: 15px;
   border: 0;
-  padding: 10px 30px;
+  padding: 10px 110px;
   color: #fff;
   transition: 0.4s;
   border-radius: 4px;
 }
 
-.contact .php-email-form button[type=submit]:hover {
+/*.contact .php-email-form button[type=submit]:hover {
   background: #15bb62;
-}
+}*/
 
 @keyframes animate-loading {
   0% {
